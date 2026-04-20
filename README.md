@@ -58,7 +58,19 @@ Predict the probability of admission into top universities using applicant data 
 ---
 
 ## 📂 Project Structure
-(Explain your folders)
+Jamboree-Admission-Prediction/
+│
+├── data/
+│   └── admission.csv
+│
+├── notebook/
+│   └── jamboree_analysis.ipynb
+|
+├── images/               
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 ---
 
