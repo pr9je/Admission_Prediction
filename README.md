@@ -58,23 +58,15 @@ Predict the probability of admission into top universities using applicant data 
 ---
 
 ## 📂 Project Structure
+
 Jamboree-Admission-Prediction/
 │
-├── data/
-│   └── admission.csv
-│
-├── notebook/
-│   └── jamboree_analysis.ipynb
-|
-├── images/               
-│
+├── data/                # Dataset
+├── notebook/            # Jupyter notebook (EDA + analysis)
+├── images/              # Visualizations used in README
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 
 ---
 
-## 🔗 Future Improvements
-- Ridge & Lasso Regression
-- Model deployment (Streamlit app)
-- Feature engineering
