@@ -57,16 +57,3 @@ Predict the probability of admission into top universities using applicant data 
 
 ---
 
-## 📂 Project Structure
-
-Jamboree-Admission-Prediction/
-│
-├── data/                # Dataset
-├── notebook/            # Jupyter notebook (EDA + analysis)
-├── images/              # Visualizations used in README
-├── README.md
-├── requirements.txt
-└── .gitignore
-
----
-
