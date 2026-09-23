@@ -1,6 +1,6 @@
 # 🎓 Jamboree Admission Prediction
 
-## 📌 Problem Statement
+##  Problem Statement
 Predict the probability of admission into top universities using applicant data such as GRE, TOEFL, CGPA, SOP, LOR, and Research experience.
 
 ---
